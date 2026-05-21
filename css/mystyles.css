@@ -1,0 +1,60 @@
+.unacenter{
+    text-align: center;
+    color: black;
+    background-color: rgb(238, 243, 243);
+    border: 2px solid black;
+}
+.una{
+    text-align: center;
+    color: aliceblue;
+    background-color: rgb(39, 39, 39);
+    border: 2px solid rgb(156, 151, 151);
+    padding: 60px;
+    border-radius: 40px 40px 40px 40px;
+    margin: 0 auto;
+    width: 80%;
+    height: 100px;
+    overflow: auto;
+}
+.name1{
+    text-align: center;
+}
+.una0{
+    text-align: center;
+    padding: 50px;
+}
+a.unalink{
+    color: azure;
+    padding: 0 30px;
+    border-radius: 40px;
+    background-color: darkgray;
+}
+a.unalink:hover{
+    background-color: darkkhaki;
+    color: aliceblue;
+}
+.unabig{
+    font-size: 20px;
+    font-weight: 800;
+}
+.unago{
+    font-size: 50px;
+    text-align: center;
+}
+section#about {
+    background-color: rgb(144, 186, 186);
+    background-image: url("../assets/img/bg.jpg");
+    background-repeat: no-repeat;
+    background-position: left;
+    background-attachment: fixed;
+    background-size: cover;
+}
+section#about h1{
+    color: aliceblue;
+}
+section#work{
+    background-color: rgb(144, 186, 186);
+}
+section#cta{
+    background-color: rgb(144, 186, 186);
+}
