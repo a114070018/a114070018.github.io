@@ -1,4 +1,8 @@
 .unacenter{
+     font-family: "Noto Serif TC", serif;
+     font-optical-sizing: auto;
+     font-weight: weight;
+     font-style: normal;
     text-align: center;
     color: black;
     background-color: rgb(238, 243, 243);
