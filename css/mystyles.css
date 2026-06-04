@@ -47,7 +47,7 @@ a.unalink:hover{
     text-align: center;
 }
 section#about {
-    background:linear-gradient( rgba(144, 186, 186,0.7),rgba(144, 186, 186,0.7),url("../assets/img/bg.jpg"));
+    background:linear-gradient( rgba(144, 186, 186, 0.9),rgba(144, 186, 186, 0.7),url("../assets/img/bg.jpg"));
     background-repeat: no-repeat;
     background-position: left;
     background-attachment: fixed;
